@@ -1,0 +1,1 @@
+﻿ dotnet ef dbcontext scaffold "Server=(localdb)\mssqllocaldb;Database=FinalDatabase;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o TEMPModel

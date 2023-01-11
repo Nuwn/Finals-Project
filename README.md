@@ -36,7 +36,7 @@ With highscore and personal score.
 5. Build project.
 
 #### Website
-1. Open "/Finals-Api/Finals-UI" in terminal of choice.
+1. Open "Finals-UI" in terminal of choice.
 2. npm install
 3. If API URL was changed, go to "src/routes/api.js" to change endpoint.
 3. npm run dev.
